@@ -7,3 +7,10 @@ https://github.com/noradlb1/animiForm-VB/assets/74623428/2d51e44c-dff5-4176-918d
 
 
 ![image](https://github.com/noradlb1/animiForm-VB/assets/74623428/501a677c-fe1d-4821-adb4-c6ba6b1d0569)
+
+
+-- --
+
+Orginal
+
+https://github.com/mian2018/CSharp_TransparentForm
