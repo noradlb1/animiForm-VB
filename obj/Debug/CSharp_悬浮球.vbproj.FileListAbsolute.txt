@@ -1,0 +1,10 @@
+C:\Users\MONSTERMC\Downloads\New folder\bin\Debug\CSharp_悬浮球.exe.config
+C:\Users\MONSTERMC\Downloads\New folder\bin\Debug\CSharp_悬浮球.exe
+C:\Users\MONSTERMC\Downloads\New folder\bin\Debug\CSharp_悬浮球.pdb
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\CSharp_悬浮球.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\CSharp_悬浮球.Form1.resources
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\CSharp_悬浮球.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\CSharp_悬浮球.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\CSharp_悬浮球.exe
+C:\Users\MONSTERMC\Downloads\New folder\obj\Debug\CSharp_悬浮球.pdb
